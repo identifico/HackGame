@@ -1,0 +1,7 @@
+D:\Программирование\HackGame\bin\Debug\HackGame.exe.config
+D:\Программирование\HackGame\bin\Debug\HackGame.exe
+D:\Программирование\HackGame\bin\Debug\HackGame.pdb
+D:\Программирование\HackGame\obj\Debug\HackGame.csproj.AssemblyReference.cache
+D:\Программирование\HackGame\obj\Debug\HackGame.csproj.CoreCompileInputs.cache
+D:\Программирование\HackGame\obj\Debug\HackGame.exe
+D:\Программирование\HackGame\obj\Debug\HackGame.pdb
